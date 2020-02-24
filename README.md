@@ -1,4 +1,4 @@
-# Herramientas Computacionales - Segundo Semestre 2019
+# Herramientas Computacionales - Primer Semestre de 2020
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ComputoCienciasUniandes/FISI2026-201920/master)
 
